@@ -16,6 +16,7 @@ Este projeto foi desenvolvido no portal Azure e Postman
 
 - portal.azure
 - postman
+- utilizado o https://jwt.io/ para verificar os dados do token
 
 
 ---
