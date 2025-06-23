@@ -12,7 +12,7 @@ Este projeto foi desenvolvido no portal Azure e Postman
  
 ---
 
-## 🧰 Tecnologias e Bibliotecas
+## 🧰 Tecnologias
 
 - portal.azure
 - postman
@@ -24,7 +24,7 @@ Este projeto foi desenvolvido no portal Azure e Postman
 ## 📦 Instalação
 
    
-### 1. Instale as extensões
+### 1. Instalações
     instalar o postman
 
 ### 2. Acessar o portal azure
